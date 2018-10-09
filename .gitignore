@@ -1,0 +1,35 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+*.mvn
+*.cmd
+*/mvnw
+*/webapp/logs/*
+*.settings
+*/target/
+.mymetadata
+*.mymetadata
+
+### Eclipse ###
+.project
+*.project
+.classpath
+*.classpath
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+edu_simple_pay.sql
+数据库*
